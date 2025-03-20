@@ -31,3 +31,32 @@ For reference [Click here](www.yahoo.com)
 
 F. SHOW IMAGES  
 ![logo](https://github.com/cebonheur/Demo-Documentation/blob/main/octon%20logo.JPG)
+
+Line
+---
+
+
+|Name|Age|
+| -    |  -  |
+|Wale|30|
+|Mary|45|
+
+
+emoji 
+type : and immediately followed by the smiley name and the smiley options will start to appear and you can choose the one you want.
+😄
+💔
+
+
+G. DISPLAY a code snippet (SINGLE LINE)  
+put the code inside backticks 
+`git commit -m "my first code and readme.md"`
+
+
+F. DISPLAY A CODE SNIPPET (MULTIPLE LINE) 
+use triple backticks
+
+```
+def sayHello():
+  return 2 + 2
+
