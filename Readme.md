@@ -28,3 +28,6 @@ D. UNORDERED LIST (BULLET POINTS)
 
 E. CLICKABLE LINKS  
 For reference [Click here](www.yahoo.com)
+
+F. SHOW IMAGES  
+![logo]()
