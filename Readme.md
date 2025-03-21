@@ -46,7 +46,7 @@ emoji
 type : and immediately followed by the smiley name and the smiley options will start to appear and you can choose the one you want.
 😄
 💔
-
+:broken_heart
 
 G. DISPLAY a code snippet (SINGLE LINE)  
 put the code inside backticks 
